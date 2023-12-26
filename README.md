@@ -4,7 +4,7 @@
 
 Clone the repository
 ```
-git clone https://github.com/John-Weeks-Dev/uber-clone.git
+git clone https://github.com/RadinaAvramova/uber-clone.git
 ```
 
 Open a terminal, CD in to the folder and run these commands
